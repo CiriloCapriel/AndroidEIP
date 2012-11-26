@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/junit
+END
+EthernetIpRegisterSessionRequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/junit/EthernetIpRegisterSessionRequestTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/junit/AllTests.java
+END
+UnconnectedMessageManagerRequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/junit/UnconnectedMessageManagerRequestTest.java
+END
+ArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/junit/ArrayTest.java
+END
+SimpleControlLogixCommunicatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/junit/SimpleControlLogixCommunicatorTest.java
+END
+EthernetIpBufferUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/junit/EthernetIpBufferUtilTest.java
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/junit/TestUtils.java
+END
+ExtensiveRWTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/junit/ExtensiveRWTest.java
+END
+UnconnectedMessagingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/junit/UnconnectedMessagingTest.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/segments
+END
+CipMessageRouterResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/segments/CipMessageRouterResponse.java
+END
+CipPacketResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/segments/CipPacketResponse.java
+END
+CipCommandSpecificDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/segments/CipCommandSpecificDataRequest.java
+END
+EthernetIpCommandSpecificData.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/segments/EthernetIpCommandSpecificData.java
+END
+CipMultipleMessageRouterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/segments/CipMultipleMessageRouterRequest.java
+END
+EthernetIpEncapsulationHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/segments/EthernetIpEncapsulationHeader.java
+END
+CipMessageRouterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/segments/CipMessageRouterRequest.java
+END
+EthernetIpItemStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/segments/EthernetIpItemStruct.java
+END
+CipPacketRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/segments/CipPacketRequest.java
+END
+CipMultipleMessageRouterResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/segments/CipMultipleMessageRouterResponse.java
+END

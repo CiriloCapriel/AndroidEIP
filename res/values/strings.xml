@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">AndroidEIP</string>
+    <string name="title_section3">Divers</string>
+    <string name="title_section2">Light</string>
+    <string name="title_section1">Chauffage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AndroidEIP</string>
+
+</resources>

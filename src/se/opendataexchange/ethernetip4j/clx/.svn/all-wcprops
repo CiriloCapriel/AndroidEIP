@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/clx
+END
+ControlLogixMessagingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/clx/ControlLogixMessagingManager.java
+END
+SimpleLogixCommunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/clx/SimpleLogixCommunicator.java
+END
+UnconnectedMessagingWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/clx/UnconnectedMessagingWrite.java
+END
+ControlLogixConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/src/se/opendataexchange/ethernetip4j/clx/ControlLogixConnector.java
+END
+UnconnectedMessagingReadArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/clx/UnconnectedMessagingReadArray.java
+END
+UnconnectedMessagingRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/clx/UnconnectedMessagingRead.java
+END
+UnconnectedMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/clx/UnconnectedMessaging.java
+END

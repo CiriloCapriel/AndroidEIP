@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/services
+END
+UnconnectedMessageManagerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/services/UnconnectedMessageManagerResponse.java
+END
+EthernetIpRegisterSessionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/services/EthernetIpRegisterSessionRequest.java
+END
+EthernetIpRegisterSessionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/services/EthernetIpRegisterSessionData.java
+END
+EthernetIpCommandServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/services/EthernetIpCommandServices.java
+END
+UnconnectedMessageManagerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/src/se/opendataexchange/ethernetip4j/services/UnconnectedMessageManagerRequest.java
+END
+CipCommandServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/services/CipCommandServices.java
+END
+EthernetIpRegisterSessionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/services/EthernetIpRegisterSessionResponse.java
+END

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFCCFF"
+        android:orientation="vertical"
+        android:paddingLeft="10px" >
+
+        <RadioButton
+            android:id="@+id/radioButtonChenil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:text="Chenil" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CCFFFF"
+        android:orientation="vertical"
+        android:paddingLeft="10px" >
+
+        <RadioButton
+            android:id="@+id/radioButtonGarage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:text="Garage" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LL4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFCC"
+        android:orientation="vertical"
+        android:paddingLeft="10px" >
+
+        <RadioButton
+            android:id="@+id/radioButtonSSMilieu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:text="Sous-Sol Milieu" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CCFFCC"
+        android:orientation="vertical"
+        android:paddingBottom="10px"
+        android:paddingLeft="10px"
+        android:paddingTop="10px" >
+
+        <Switch
+            android:id="@+id/switchLightDevant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:text="Lumière Devant" />
+
+        <Button
+            android:id="@+id/buttonLightDevantAdd"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:text="Ajouter Temps" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions
+END
+InsufficientCommandException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/InsufficientCommandException.java
+END
+TooLongMessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/TooLongMessageException.java
+END
+InvalidTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/InvalidTypeException.java
+END
+InvalidEncapsulationPackageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/InvalidEncapsulationPackageException.java
+END
+OtherWithExtendedCodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/OtherWithExtendedCodeException.java
+END
+InvalidPathLengthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/InvalidPathLengthException.java
+END
+ToLongMessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/ToLongMessageException.java
+END
+EmbeddedServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/EmbeddedServiceException.java
+END
+ItemNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/ItemNotFoundException.java
+END
+ResponseBufferOverflowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/ResponseBufferOverflowException.java
+END
+NoValueInResponseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/NoValueInResponseException.java
+END
+PathSegmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/PathSegmentException.java
+END
+InsufficientNrOfAttributesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/InsufficientNrOfAttributesException.java
+END
+ProcessingAttributesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/ProcessingAttributesException.java
+END
+BufferTooSmallException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/BufferTooSmallException.java
+END
+NotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/se/opendataexchange/ethernetip4j/exceptions/NotImplementedException.java
+END
